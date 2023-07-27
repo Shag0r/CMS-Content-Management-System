@@ -3,7 +3,11 @@ A content management system to provide items create update and delete options.
 Intro video 
 
 
-https://github.com/Shag0r/CMS-Content-Management-System/assets/101504353/540f97be-dc81-4026-a73f-4a1608135357
+
+https://github.com/Shag0r/CMS-Content-Management-System/assets/101504353/f51b4719-8c10-467e-b244-e89fb58162ec
+
+
+
 Key Features of this project:
 1. Insert Items
 2. Delete items
